@@ -1,0 +1,12 @@
+IDCidade;Cidade
+10;Faro
+2;Maia
+3;Braga
+4;Aveiro
+5;Leiria
+6;Torres Novas
+7;Santarem
+8;Lisboa
+9;Setubal
+34 ; Manchester ;
+21 ; dede ;

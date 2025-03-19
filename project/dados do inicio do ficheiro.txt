@@ -1,0 +1,77 @@
+
+
+#def adiciona():
+#    numero = eval(input("Número ?))
+#    nome = input("Nome")
+#    f = open("lista_alunos.txt", "at")
+#    print(numero, ";", nome, file=ref_ficheiro)
+#    ref_ficheiro.close();L
+
+# adiciona()
+   
+#pnunes@ipg.pt Paulo Nunes raul@gmail.com Raul Carlos carlos10@hotmail.com Ricardo ric123@ipg.pt 007@mi6.uk
+
+#@@@ --- declare e@n int; set @n = 10;
+
+#FAZER
+#	ESCREVER "Diga E-mail?"
+#	LER email
+#ATÉ expreg(email, '[a-z0-9]{1,29}@[a-z0-9]{1,30}.[a-z]{2,3}') = SIM
+
+
+#Matricula;Marca;Modelo;Ano;IDUtenteFK;IDCarro
+#06-FK-48;Renault;Espace;2007;14806663;1
+#44-JH-69;Mitsubishi;Colt;1995;9670417;2
+#
+#FK-48-06		[A-Z]{2,2}-[0,9]{2,2}-[0-9]{2,2}	|	[0,9]{2,2}-[0,9]{2,2}-[A-Z]{2,2}	|	[0,9]{2,2}-[A-Z]{2,2}-[0-9]{2,2}
+#46-06-FK 
+#06-FK-48
+   
+   
+   
+#Algoritmo: Inserir_Carro
+#Objectivo: Permite inserir um carro no ficheiro de texto carro.txt.
+#Constantes: FICHEIRO_CARROS (TEXTO 40) - Nome do ficheiro dos dados dos carros (Valor: carros.txt)
+#Variáveis
+#	Entrada:
+#		Matricula	(TEXTO 	8)	- Matricula do carro		
+#		Marca 		(TEXTO 30)	- Marca de carro		(Letras de A-Z)
+#		Modelo		(TEXTO 30)	- Modelo do carro		(Letras de A-Z)
+#		Ano		(TEXTO 	4)	- Ano do carro ??		(>1900, < 3000)
+#		IDUtenteFK	(TEXTO 	9)	- Dono do carro			(>=1,	<=999999999)
+#		IDCarro		(TEXTO 	6)	- Numero do Carro		(>=0,	<= 999999)
+#	Saida:
+#Data: 2016-11-21
+#Versão: 1.0
+#Obs:
+#Início:
+#v1
+#		LER dados
+#		ABRIR ficheiro carros.txt para escrita no fim
+#		ESCREVER os dados no ficheiro
+#		FECHAR o ficheiro
+#V2
+#		LER Matricula
+#		LER Marca
+#		LER Modelo
+#		LER Ano
+#		LER IDUtenteFK
+#		LER IDCarro
+#		
+#		rf = AbrirFicheiro (<FICHEIRO_CARROS, "escrita_fim")
+#		EscreverFicheiro(rf, Matricula, Marca, Modelo, Ano , IDUtente, IDCarro)
+#		FecharFicheiro(rf)
+#	Fim.
+#	
+#	Matricula	= input ("Matricula ?")
+#	Marca 		= input ("Marca ?")
+#	Modelo		= input ("Modelo ?")
+#	Ano		= input ("Ano ?")
+#	IDUtente	= input ("Número do dono ?")
+#	IDCarro		= input ("Número do carro ?")
+#		  
+#	f = open(FICHEIRO_CARROS, "at");
+#	print (sep=';',file=f, Matricula, Marca, Modelo, Ano, IDUtenteFK, IDCarro)
+
+
+	
