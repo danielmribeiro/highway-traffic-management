@@ -3,27 +3,32 @@ A Python program to facilitate the organization, structuring, querying, and proc
 
 - [Practical Assignment](enunciado.pdf)
 - [Project files](project)
-- [Project Report](project\1012527-1012539_WG.pdf)
+- [Project Report](project/1012527-1012539_WG.pdf)
 
 ##### Menu
 ![Main Menu](screenshots/screenshot1.png)
 
 ##### Dono (Owner)
 ![Dono](screenshots/screenshot2.png)
+<br>
 ![Listar Dono](screenshots/screenshot3.png)
 
 ##### Carros (Cars)
 ![Carros](screenshots/screenshot4.png)
+<br>
 ![Listar Carros](screenshots/screenshot5.png)
 
 ##### Cidades (Cities)
 ![Cidades](screenshots/screenshot6.png)
+<br>
 ![Listar Cidades](screenshots/screenshot7.png)
 
 ##### Distâncias (Distances)
 ![Distâncias](screenshots/screenshot8.png)
+<br>
 ![Listar Distâncias](screenshots/screenshot9.png)
 
 ##### Passagens (Traffic)
 ![Passagens](screenshots/screenshot10.png)
+<br>
 ![Listar Passagens](screenshots/screenshot11.png)
