@@ -32,3 +32,11 @@ A Python program to facilitate the organization, structuring, querying, and proc
 ![Passagens](screenshots/screenshot10.png)
 <br>
 ![Listar Passagens](screenshots/screenshot11.png)
+
+
+
+-----
+
+Discover additional projects from this class in the [Algoritmos e Estruturas de Dados repository](https://github.com/danielmribeiro/ipg-lei-algoritmos-e-estruturas-de-dados).
+
+For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
